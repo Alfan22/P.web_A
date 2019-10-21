@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  		<title>Ternakkuy</title>
+		<link rel="stylesheet" type="text/css" href="index.css"></link>
+  
+  </head>
+  <body>
+  
+  		<div class="navbar">
+			 <div class="ikuti">Ikuti kami di</div>
+    		 <a href="" ><img src="fb.png" ></a>
+    		 <a href="" ><img src="ig.png" ></a>
+    		 <a href="" ><img src="twitter.png" ></a>
+			 
+			 <div class="right">
+			 <a href=""><img src="login.png"></a>
+			 <a href="" class="nav">Login</a>
+			 <a href="" class="nav">Bantuan</a>
+			 <a href="" class="nav">Daftar</a>
+			 </div>
+		</div>
+		<div class="navbar1">
+			 <a href="" ><img src="Ternak kuy.jpg"></a>
+		
+  </body>
+</html>
