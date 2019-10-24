@@ -50,6 +50,46 @@ body {
     z-index:5; 
     border-bottom:6px solid #DEDEDE;
 }
+.container{ 
+      background-repeat:100% 720px;
+      width:520px;
+      height:500px;
+      text-align:center;
+      background-color:rgba(52,73,94,0.7);
+      border-radius: 4px;
+      position:absolute;
+      margin:0 auto;
+      margin-left:350px;
+      margin-top:300px;   
+          
+
+}
+.container .login{ 
+     font-family:Lohit Telugu;
+     margin-top:10px;
+     margin-left:10px;
+     text-align:left;
+     font-size:30px;
+}
+.container .username{
+  margin-top:20%;
+   
+  height:45px;
+  width:300px;
+  font-size:18px;
+  margin-bottom: 20px;
+  background-color: #fff;
+  padding-left:30px;
+}
+.container .password{        
+  height:45px;
+  width:300px;
+  font-size:18px;
+  margin-bottom: 20px;
+  background-color: #fff;
+  padding-left:30px;
+}
+
 .search{
       background-color:#95FF95;
       float:right;
@@ -90,7 +130,10 @@ body {
       font-size: 20px;
       text-align: center;
 }
-
+.grid2{
+      padding: 20px;
+      font-size: 20px;
+}
 .gridone{
       padding: 20px;
       font-size: 20px;
